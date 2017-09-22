@@ -10,7 +10,7 @@ Number of features: 10
 
 Features Information:
 
-   #  Attribute                     Domain
+   Attribute                     Domain
    1. Sample code number            id number
    2. Clump Thickness               1 - 10
    3. Uniformity of Cell Size       1 - 10
