@@ -46,7 +46,11 @@ Gradient descent equation:
 Cost function equation:
 ![C](/images/cost.png?raw=true)
 
+
+
 Gradient descent plot:
-![GD](/images/gradient_descent_plot.png?raw=true)
+![GDP](/images/gradient_descent_plot.png?raw=true)
+
+There is clear convergence observed with alpha = 0.01 and iterations = 500
 
 
