@@ -1,5 +1,5 @@
 # LogisticRegression
-Goal of this project is to implement logistic regression classification using Logistic Regression without using Machine Learning Libraries.
+Goal of this project is to implement binary classification using Logistic Regression without using any Machine Learning Libraries.
 
 # Dataset
 I used the breast cancer dataset available from UCI machine learning library.
