@@ -44,7 +44,7 @@ Gradient descent equation:
 ![GD](/images/gradient_descent.png?raw=true)
 
 Cost function equation:
-![C](/Images/cost.png?raw=true)
+![C](/images/cost.png?raw=true)
 
 Gradient descent plot:
 ![GD](/images/gradient_descent_plot.png?raw=true)
