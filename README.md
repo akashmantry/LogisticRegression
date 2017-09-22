@@ -39,14 +39,14 @@ learning rate (alpha) = 0.01
 number of iterations = 500
 
 Hypothesis quations:
-![H](/images/hypothesis.PNG?raw=true)
+![H](/images/hypothesis.png?raw=true)
 Gradient descent equation:
-![GD](/images/gradient_descent.PNG?raw=true)
+![GD](/images/gradient_descent.png?raw=true)
 
 Cost function equation:
-![C](/Images/cost.PNG?raw=true)
+![C](/Images/cost.png?raw=true)
 
 Gradient descent plot:
-![GD](/images/gradient_descent_plot.PNG?raw=true)
+![GD](/images/gradient_descent_plot.png?raw=true)
 
 
