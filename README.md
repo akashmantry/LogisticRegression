@@ -5,7 +5,7 @@ Goal of this project is to implement binary classification using Logistic Regres
 I implemented on two datasets.
   
 * Breast cancer dataset  
-      Number of Instances: 699  
+  Number of Instances: 699 <br />
       Number of missing data points: 16  
       Number of features: 10  
 
@@ -107,13 +107,13 @@ Results:
   
 Breast Cancer dataset:  
 Without Regularization  
-Mean accuracy: 96.76
+Mean accuracy: 96.76  
 With Regularization  
-Mean accuracy: 97.05
+Mean accuracy: 97.05  
   
 SpamBase dataset:  
 Without Regularization  
-Mean accuracy: 89.5
-With Regularization  
-Mean accuracy: 89.52
+Mean accuracy: 89.5  
+With Regularization  
+Mean accuracy: 89.52  
 
