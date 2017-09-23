@@ -83,9 +83,8 @@ def gradient_descent(training_set, alpha, max_iterations, plot_graph):
                 prediction += (regularization_parameter/X_count)*prev_theta
             theta[i] = prev_theta - alpha * prediction
             
-            mean = cost_function(X, y, theta)
-            
             if plot_graph:
+                mean = cost_function(X, y, theta)
                 x_vals.append(iter_count)
                 y_vals.append(mean)
     
