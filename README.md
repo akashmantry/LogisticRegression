@@ -2,9 +2,10 @@
 Goal of this project is to implement binary classification using Logistic Regression without using any Machine Learning Libraries.
 
 # Dataset
-I implemented on two datasets.  
-* Breast cancer dataset
-      Number of Instances: 699  
+I implemented on two datasets.
+  
+* Breast cancer dataset  
+      Number of Instances: 699  
       Number of missing data points: 16  
       Number of features: 10  
 
@@ -102,6 +103,17 @@ Gradient descent plot for breast cancer:
 Gradient descent plot for spambase:
 ![GDPS](/images/gd_plot_spam.png?raw=true)
 
-
-
+Results:  
+  
+Breast Cancer dataset:  
+Without Regularization  
+Mean accuracy: 96.76
+With Regularization  
+Mean accuracy: 97.05
+  
+SpamBase dataset:  
+Without Regularization  
+Mean accuracy: 89.5
+With Regularization  
+Mean accuracy: 89.52
 
