@@ -114,6 +114,6 @@ Mean accuracy: 97.05
 SpamBase dataset:  
 Without Regularization  
 Mean accuracy: 89.5  
-With Regularization  
+With Regularization <br />
 Mean accuracy: 89.52  
 
