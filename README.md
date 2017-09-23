@@ -3,7 +3,7 @@ Goal of this project is to implement binary classification using Logistic Regres
 
 # Dataset
 I implemented on two datasets.  
-1. Breast cancer dataset
+* Breast cancer dataset
   
 Number of Instances: 699  
 Number of missing data points: 16  
@@ -24,7 +24,7 @@ Features Information:
   10. Mitoses                       1 - 10
   11. Class:                        (2 for benign, 4 for malignant)
 
-2. Spambase dataset . 
+* Spambase dataset
   
 Number of Instances: 4600  
 Number of missing data points: None    
